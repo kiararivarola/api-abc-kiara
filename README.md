@@ -24,7 +24,7 @@ http://localhost:8080/consulta?q=nenecho
 <img width="1482" height="705" alt="image" src="https://github.com/user-attachments/assets/04525d06-f564-4394-bd7d-930ed73286bf" />
 <img width="1473" height="641" alt="image" src="https://github.com/user-attachments/assets/dabfe043-ddff-4467-9ad3-f9da69b046bc" />
 - cURL
-- curl --location 'http://localhost:8080/consulta?q='
-
+  - curl --location 'http://localhost:8080/consulta?q='
+- No se pudo implementar los puntos mencionados en el apartado BONUS de la solicitud de realización del proyecto :c
 
 
