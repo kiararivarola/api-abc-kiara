@@ -7,8 +7,8 @@ Este proyecto permite buscar noticias del portal ABC y devolverlas en formato JS
   - Spring Boot (incluido en el proyecto a través de Maven)
 - Pasos de ejecucion
 1. Clonar el proyecto
-git clone https://github.com/kiararivarola/api-abc-kiara.git
-cd api-abc-kiara
+- git clone https://github.com/kiararivarola/api-abc-kiara.git
+- cd api-abc-kiara
 2. Configurar ChromeDriver (utilizado para obtener las noticias)
 - C:\ruta\a\chromedriver.exe
 3. Ejecutar el proyecto, la API estará disponible en http://localhost:8080
