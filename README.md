@@ -1,6 +1,7 @@
 # api-abc-kiara
 Este proyecto permite buscar noticias del portal ABC y devolverlas en formato JSON a través de un endpoint REST.
 - Stack utiliado
+  - VS code 
   - Java 17
   - Maven
   - Spring Boot (incluido en el proyecto a través de Maven)
